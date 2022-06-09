@@ -7,7 +7,7 @@
 3. Commit your file to the repository when finished
 
 Note
- > We will allow US Stocks and cryptocurrency for this simulation.
- > You can edit as many times as you like, up until the simulation start.
- > No trades for the duration of the simulation.
- > The simulation will begin at opening bell on Monday and results will be tabulated athe end of class
+* We will allow US Stocks and cryptocurrency for this simulation.
+* You can edit as many times as you like, up until the simulation start.
+* No trades for the duration of the simulation.
+* The simulation will begin at opening bell on Monday and results will be tabulated athe end of class

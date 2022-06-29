@@ -10,7 +10,7 @@ In this activity, you'll explore some of the most popular PyViz websites to find
 
     * Each group will also be assigned one of the following websites to explore:
 
-        - [Visual Captialist](https://www.visualcapitalist.com/)
+        - [Visual Capitalist](https://www.visualcapitalist.com/)
         - [FlowingData](https://flowingdata.com/)
         - [Data Sketch](https://www.datasketch.es/)
         - [information is beautiful](https://informationisbeautiful.net/)

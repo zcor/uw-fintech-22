@@ -1,4 +1,4 @@
-# Simulation 2
+# Simulation 3
 
 Whoever has the most $HUSKY tokens at the start of class Thursday, October 20 will be the winner of Simulation 3.
 

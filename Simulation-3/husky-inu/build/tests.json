@@ -1,0 +1,58 @@
+{
+  "contracts": {
+    "HuskyToken": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "HuskyTokenDeployer": "47682e807865f1a08a4e36815f6184a56710d33c",
+    "HuskyTokenMinter": "0c2f13d7b70e00c5aeb9706ad3c4b874a09cf56e",
+    "OpenZeppelin/openzeppelin-contracts@2.5.0/ERC20": "aa4d8ad11d52b004cd3301d52c04abc786758673",
+    "OpenZeppelin/openzeppelin-contracts@2.5.0/ERC20Mintable": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "OpenZeppelin/openzeppelin-contracts@2.5.0/Roles": "3232e80569be845f6931e64f6278c8c0c6be0329",
+    "OpenZeppelin/openzeppelin-contracts@2.5.0/SafeMath": "3232e80569be845f6931e64f6278c8c0c6be0329"
+  },
+  "tests": {
+    "tests/test_basics.py": {
+      "coverage": false,
+      "isolated": [
+        "HuskyToken",
+        "HuskyTokenMinter",
+        "OpenZeppelin/openzeppelin-contracts@2.5.0/ERC20",
+        "OpenZeppelin/openzeppelin-contracts@2.5.0/ERC20Mintable",
+        "OpenZeppelin/openzeppelin-contracts@2.5.0/Roles",
+        "OpenZeppelin/openzeppelin-contracts@2.5.0/SafeMath"
+      ],
+      "results": "...........",
+      "sha1": "fba7710e8770c7a0ee92fb417cbd6fbec789158b",
+      "txhash": [
+        "b907b7b5fafb7e8e73172f53de8cdf7753417e22",
+        "c9b71d2f1d6cd16c24cb4f57a17cb2328811f8e3"
+      ]
+    }
+  },
+  "tx": {
+    "b907b7b5fafb7e8e73172f53de8cdf7753417e22": {
+      "HuskyTokenMinter": {
+        "13": [
+          [
+            0
+          ],
+          [
+            13
+          ],
+          []
+        ]
+      }
+    },
+    "c9b71d2f1d6cd16c24cb4f57a17cb2328811f8e3": {
+      "HuskyTokenMinter": {
+        "13": [
+          [
+            6
+          ],
+          [
+            15
+          ],
+          []
+        ]
+      }
+    }
+  }
+}
